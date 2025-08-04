@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mehmet gani eyvaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet gani eyvaz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mehmet-gani-eyvaz-a8a505241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet gani eyvaz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mehmeteyvazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mehmeteyvazz" height="30" width="40" /></a>
 <a href="https://instagram.com/gani_eyvaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gani_eyvaz" height="30" width="40" /></a>
 </p>
