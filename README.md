@@ -1,4 +1,4 @@
-![MasterHead]()
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.manzara.gen.tr%2Fgokyuzu-manzarasi%2F&psig=AOvVaw34BzVBO_RSW6bQFr2RQRB-&ust=1754392121478000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCU2o2C8Y4DFQAAAAAdAAAAABBA)
 <h1 align="center">Hi 👋, I'm Mehmet Gani Eyvaz</h1>
 <h3 align="center">Career direction is focused on something new every day.</h3>
 
@@ -17,6 +17,5 @@
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-📧 eyvazgani0@gmail.com
 
 
