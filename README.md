@@ -1,4 +1,4 @@
- [![MasterHead](https://www.pexels.com/tr-tr/fotograf/mavi-ve-beyaz-soyut-resim-3607083/)
+ [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.duvarpaneli.com%2Fduvar-kaplama%2Fmavilik-temali-duvar-kagidi%2F%3Fsrsltid%3DAfmBOorUMiqvD2wjaxo06p09vs-269exT6TTAh1o5ltxrL-YIp10DJUp&psig=AOvVaw1ER_N5fyERDsVsRHAULfA8&ust=1754391688019000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIC63L2A8Y4DFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Mehmet Gani Eyvaz</h1>
 <h3 align="center">Career direction is focused on something new every day.</h3>
 
