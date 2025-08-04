@@ -1,4 +1,4 @@
- [![MasterHead](https://tr.pngtree.com/freebackground/beautiful-abstract-grunge-decorative-navy-blue-dark-stucco-wall-background-art-rough-stylized-texture-banner-with-space-for-text_1306521.html)
+ [![MasterHead](https://www.pexels.com/tr-tr/fotograf/mavi-ve-beyaz-soyut-resim-3607083/)
 <h1 align="center">Hi 👋, I'm Mehmet Gani Eyvaz</h1>
 <h3 align="center">Career direction is focused on something new every day.</h3>
 
